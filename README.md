@@ -16,3 +16,8 @@ Meanwhile, the compiled output files will be generated in the `bin` folder by de
 ## Dependency Management
 
 The `JAVA PROJECTS` view allows you to manage your dependencies. More details can be found [here](https://github.com/microsoft/vscode-java-dependency#manage-dependencies).
+
+## We need to do three steps in terminal to run the program
+1-	Run the central server   "java server"
+2-	Run the intermediate  "java intermediate"
+3-	Run the clients  "java sensor" , "java driver"
